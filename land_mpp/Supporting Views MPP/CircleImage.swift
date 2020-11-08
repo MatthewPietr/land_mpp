@@ -1,5 +1,5 @@
 //
-//  CircileImage.swift
+//  CircleImage.swift
 //  land_mpp
 //
 //  Created by Matthew Pietrucha on 11/8/20.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CircileImage: View {
+struct CircleImage: View {
     var body: some View {
         Image("turtlerock")
             .clipShape(Circle())
@@ -17,8 +17,8 @@ struct CircileImage: View {
     }
 }
 
-struct CircileImage_Previews: PreviewProvider {
+struct CircleImage_Previews: PreviewProvider {
     static var previews: some View {
-        CircileImage()
+        CircleImage()
     }
 }
