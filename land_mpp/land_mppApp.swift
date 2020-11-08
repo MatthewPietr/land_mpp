@@ -11,7 +11,7 @@ import SwiftUI
 struct land_mppApp: App {
     var body: some Scene {
         WindowGroup {
-            LandmarkDetail()
+            LandmarkList()
         }
     }
 }
