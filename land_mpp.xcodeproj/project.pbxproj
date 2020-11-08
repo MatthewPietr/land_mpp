@@ -13,6 +13,8 @@
 		8C315CA32558A0C500AD01B5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C315CA22558A0C500AD01B5 /* Preview Assets.xcassets */; };
 		8C315CAE2558A0C600AD01B5 /* land_mppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315CAD2558A0C600AD01B5 /* land_mppTests.swift */; };
 		8C315CB92558A0C600AD01B5 /* land_mppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315CB82558A0C600AD01B5 /* land_mppUITests.swift */; };
+		8C315CCA2558A62700AD01B5 /* CircileImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315CC92558A62700AD01B5 /* CircileImage.swift */; };
+		8C315CCF2558A69000AD01B5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315CCE2558A69000AD01B5 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		8C315CB42558A0C600AD01B5 /* land_mppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = land_mppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C315CB82558A0C600AD01B5 /* land_mppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = land_mppUITests.swift; sourceTree = "<group>"; };
 		8C315CBA2558A0C600AD01B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C315CC92558A62700AD01B5 /* CircileImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircileImage.swift; sourceTree = "<group>"; };
+		8C315CCE2558A69000AD01B5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				8C315C9B2558A0C300AD01B5 /* land_mppApp.swift */,
 				8C315C9D2558A0C300AD01B5 /* ContentView.swift */,
 				8C315C9F2558A0C500AD01B5 /* Assets.xcassets */,
+				8C315CC92558A62700AD01B5 /* CircileImage.swift */,
+				8C315CCE2558A69000AD01B5 /* MapView.swift */,
 				8C315CA42558A0C500AD01B5 /* Info.plist */,
 				8C315CA12558A0C500AD01B5 /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C315CCA2558A62700AD01B5 /* CircileImage.swift in Sources */,
+				8C315CCF2558A69000AD01B5 /* MapView.swift in Sources */,
 				8C315C9E2558A0C300AD01B5 /* ContentView.swift in Sources */,
 				8C315C9C2558A0C300AD01B5 /* land_mppApp.swift in Sources */,
 			);
