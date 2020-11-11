@@ -40,6 +40,23 @@
 		8C315D0C2558AC8300AD01B5 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315D0B2558AC8300AD01B5 /* LandmarkRow.swift */; };
 		8C315D112558AD1700AD01B5 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C315D102558AD1700AD01B5 /* LandmarkList.swift */; };
 		8C53465C255B6A070027C32B /* empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C53465B255B6A070027C32B /* empty.swift */; };
+		8C602BE1255B7D4C00B39A2C /* mabee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BD6255B7D4B00B39A2C /* mabee.jpg */; };
+		8C602BE2255B7D4C00B39A2C /* edwards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BD7255B7D4B00B39A2C /* edwards.jpg */; };
+		8C602BE3255B7D4C00B39A2C /* smith.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BD8255B7D4B00B39A2C /* smith.jpg */; };
+		8C602BE4255B7D4C00B39A2C /* coba.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BD9255B7D4B00B39A2C /* coba.jpg */; };
+		8C602BE5255B7D4C00B39A2C /* stockyards_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDA255B7D4B00B39A2C /* stockyards_feature.jpg */; };
+		8C602BE6255B7D4C00B39A2C /* sundance2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDB255B7D4B00B39A2C /* sundance2.jpg */; };
+		8C602BE7255B7D4C00B39A2C /* morris_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDC255B7D4B00B39A2C /* morris_feature.jpg */; };
+		8C602BE8255B7D4C00B39A2C /* academy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDD255B7D4B00B39A2C /* academy.jpg */; };
+		8C602BE9255B7D4C00B39A2C /* hunter_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDE255B7D4B00B39A2C /* hunter_feature.jpg */; };
+		8C602BEA255B7D4C00B39A2C /* bean_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BDF255B7D4B00B39A2C /* bean_feature.jpg */; };
+		8C602BEB255B7D4C00B39A2C /* halbertwelling.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BE0255B7D4C00B39A2C /* halbertwelling.jpg */; };
+		8C602BF0255B7D5600B39A2C /* tarrant_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BEF255B7D5500B39A2C /* tarrant_feature.jpg */; };
+		8C602BF5255B7D6F00B39A2C /* bean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BF4255B7D6F00B39A2C /* bean.jpg */; };
+		8C602BFA255B7D7F00B39A2C /* stockyards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BF9255B7D7F00B39A2C /* stockyards.jpg */; };
+		8C602BFF255B7D9900B39A2C /* tarrant.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602BFE255B7D9900B39A2C /* tarrant.jpg */; };
+		8C602C05255B7DB100B39A2C /* morris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602C03255B7DB100B39A2C /* morris.jpg */; };
+		8C602C06255B7DB100B39A2C /* hunter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C602C04255B7DB100B39A2C /* hunter.jpg */; };
 		8CD905D9255AD785002DEF19 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD905D8255AD785002DEF19 /* UserData.swift */; };
 		8CD905E6255ADD96002DEF19 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD905E5255ADD96002DEF19 /* HexagonParameters.swift */; };
 		8CD905EE255ADDCE002DEF19 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD905ED255ADDCE002DEF19 /* Badge.swift */; };
@@ -118,6 +135,23 @@
 		8C315D0B2558AC8300AD01B5 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		8C315D102558AD1700AD01B5 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		8C53465B255B6A070027C32B /* empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = empty.swift; sourceTree = "<group>"; };
+		8C602BD6255B7D4B00B39A2C /* mabee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mabee.jpg; sourceTree = "<group>"; };
+		8C602BD7255B7D4B00B39A2C /* edwards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = edwards.jpg; sourceTree = "<group>"; };
+		8C602BD8255B7D4B00B39A2C /* smith.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = smith.jpg; sourceTree = "<group>"; };
+		8C602BD9255B7D4B00B39A2C /* coba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coba.jpg; sourceTree = "<group>"; };
+		8C602BDA255B7D4B00B39A2C /* stockyards_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stockyards_feature.jpg; sourceTree = "<group>"; };
+		8C602BDB255B7D4B00B39A2C /* sundance2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sundance2.jpg; sourceTree = "<group>"; };
+		8C602BDC255B7D4B00B39A2C /* morris_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = morris_feature.jpg; sourceTree = "<group>"; };
+		8C602BDD255B7D4B00B39A2C /* academy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = academy.jpg; sourceTree = "<group>"; };
+		8C602BDE255B7D4B00B39A2C /* hunter_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hunter_feature.jpg; sourceTree = "<group>"; };
+		8C602BDF255B7D4B00B39A2C /* bean_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bean_feature.jpg; sourceTree = "<group>"; };
+		8C602BE0255B7D4C00B39A2C /* halbertwelling.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = halbertwelling.jpg; sourceTree = "<group>"; };
+		8C602BEF255B7D5500B39A2C /* tarrant_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tarrant_feature.jpg; sourceTree = "<group>"; };
+		8C602BF4255B7D6F00B39A2C /* bean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bean.jpg; sourceTree = "<group>"; };
+		8C602BF9255B7D7F00B39A2C /* stockyards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stockyards.jpg; sourceTree = "<group>"; };
+		8C602BFE255B7D9900B39A2C /* tarrant.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tarrant.jpg; sourceTree = "<group>"; };
+		8C602C03255B7DB100B39A2C /* morris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = morris.jpg; sourceTree = "<group>"; };
+		8C602C04255B7DB100B39A2C /* hunter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hunter.jpg; sourceTree = "<group>"; };
 		8CD905D8255AD785002DEF19 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		8CD905E5255ADD96002DEF19 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		8CD905ED255ADDCE002DEF19 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
@@ -295,6 +329,23 @@
 		8C534660255B6A0F0027C32B /* NewPhotos */ = {
 			isa = PBXGroup;
 			children = (
+				8C602BDD255B7D4B00B39A2C /* academy.jpg */,
+				8C602BDF255B7D4B00B39A2C /* bean_feature.jpg */,
+				8C602BD9255B7D4B00B39A2C /* coba.jpg */,
+				8C602BEF255B7D5500B39A2C /* tarrant_feature.jpg */,
+				8C602BD7255B7D4B00B39A2C /* edwards.jpg */,
+				8C602BE0255B7D4C00B39A2C /* halbertwelling.jpg */,
+				8C602BDE255B7D4B00B39A2C /* hunter_feature.jpg */,
+				8C602BD6255B7D4B00B39A2C /* mabee.jpg */,
+				8C602BF4255B7D6F00B39A2C /* bean.jpg */,
+				8C602BF9255B7D7F00B39A2C /* stockyards.jpg */,
+				8C602BDC255B7D4B00B39A2C /* morris_feature.jpg */,
+				8C602C04255B7DB100B39A2C /* hunter.jpg */,
+				8C602C03255B7DB100B39A2C /* morris.jpg */,
+				8C602BD8255B7D4B00B39A2C /* smith.jpg */,
+				8C602BFE255B7D9900B39A2C /* tarrant.jpg */,
+				8C602BDA255B7D4B00B39A2C /* stockyards_feature.jpg */,
+				8C602BDB255B7D4B00B39A2C /* sundance2.jpg */,
 			);
 			path = NewPhotos;
 			sourceTree = "<group>";
@@ -412,24 +463,41 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CD9062B255AE606002DEF19 /* hikeData.json in Resources */,
+				8C602C05255B7DB100B39A2C /* morris.jpg in Resources */,
 				8C315CEC2558A93D00AD01B5 /* lakemcdonald.jpg in Resources */,
+				8C602BE1255B7D4C00B39A2C /* mabee.jpg in Resources */,
 				8C315CF52558A93D00AD01B5 /* rainbowlake.jpg in Resources */,
 				8C315CA32558A0C500AD01B5 /* Preview Assets.xcassets in Resources */,
+				8C602BE2255B7D4C00B39A2C /* edwards.jpg in Resources */,
 				8C315CEE2558A93D00AD01B5 /* twinlake.jpg in Resources */,
+				8C602BE5255B7D4C00B39A2C /* stockyards_feature.jpg in Resources */,
 				8C207979255B58D600E8F2C1 /* landmarkData.json in Resources */,
 				8C207969255B57BB00E8F2C1 /* turtlerock_feature.jpg in Resources */,
+				8C602BE9255B7D4C00B39A2C /* hunter_feature.jpg in Resources */,
 				8C315CF32558A93D00AD01B5 /* stmarylake.jpg in Resources */,
+				8C602BEA255B7D4C00B39A2C /* bean_feature.jpg in Resources */,
+				8C602BF5255B7D6F00B39A2C /* bean.jpg in Resources */,
+				8C602C06255B7DB100B39A2C /* hunter.jpg in Resources */,
 				8C207964255B57B100E8F2C1 /* charleyrivers_feature.jpg in Resources */,
+				8C602BFA255B7D7F00B39A2C /* stockyards.jpg in Resources */,
 				8C315CEA2558A93D00AD01B5 /* silversalmoncreek.jpg in Resources */,
+				8C602BE4255B7D4C00B39A2C /* coba.jpg in Resources */,
 				8C315CA02558A0C500AD01B5 /* Assets.xcassets in Resources */,
+				8C602BE6255B7D4C00B39A2C /* sundance2.jpg in Resources */,
+				8C602BFF255B7D9900B39A2C /* tarrant.jpg in Resources */,
+				8C602BE7255B7D4C00B39A2C /* morris_feature.jpg in Resources */,
 				8C20795F255B57A100E8F2C1 /* stmarylake_feature.jpg in Resources */,
 				8C315CEB2558A93D00AD01B5 /* icybay.jpg in Resources */,
 				8C315CF12558A93D00AD01B5 /* chincoteague.jpg in Resources */,
 				8C315CF42558A93D00AD01B5 /* chilkoottrail.jpg in Resources */,
+				8C602BE8255B7D4C00B39A2C /* academy.jpg in Resources */,
 				8C315CEF2558A93D00AD01B5 /* umbagog.jpg in Resources */,
 				8C315CE92558A93D00AD01B5 /* turtlerock.jpg in Resources */,
 				8C315CF22558A93D00AD01B5 /* charleyrivers.jpg in Resources */,
+				8C602BF0255B7D5600B39A2C /* tarrant_feature.jpg in Resources */,
+				8C602BEB255B7D4C00B39A2C /* halbertwelling.jpg in Resources */,
 				8C315CED2558A93D00AD01B5 /* hiddenlake.jpg in Resources */,
+				8C602BE3255B7D4C00B39A2C /* smith.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,182 +1,183 @@
 [
     {
-        "name": "Turtle Rock",
-        "category": "Rivers",
-        "city": "Twentynine Palms",
-        "state": "California",
+        "name": "Halbert Welling Center",
+        "category": "ACU Interesting Place",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1001,
-        "isFeatured": true,
-        "isFavorite": true,
-        "park": "Joshua Tree National Park",
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "park ",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": -99.708981,
+            "latitude": 32.467120
         },
-        "imageName": "turtlerock"
+        "imageName": "halbertwelling"
     },
     {
-        "name": "Silver Salmon Creek",
-        "category": "Lakes",
-        "city": "Port Alsworth",
-        "state": "Alaska",
+        "name": "College of Business Administration",
+        "category": "ACU Interesting Place",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "park": "park park ",
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
+            "longitude": -99.707019,
+            "latitude": 32.467713
         },
-        "imageName": "silversalmoncreek"
+        "imageName": "coba"
     },
     {
-        "name": "Chilkoot Trail",
-        "category": "Mountains",
-        "city": "Skagway",
-        "state": "Alaska",
+        "name": "World Famous Bean",
+        "category": "ACU Interesting Place",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1003,
         "isFeatured": false,
         "isFavorite": true,
-        "park": "Klondike Gold Rush National Historical Park",
+        "park": "park park park ",
         "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
+            "longitude": -99.708462,
+            "latitude": 32.469010
         },
-        "imageName": "chilkoottrail"
+        "imageName": "bean"
     },
     {
-        "name": "St. Mary Lake",
-        "category": "Lakes",
-        "city": "Browning",
-        "state": "Montana",
+        "name": "Hunter Welcome Center",
+        "category": "ACU Interesting Place",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1004,
         "isFeatured": true,
         "isFavorite": true,
-        "park": "Glacier National Park",
+        "park": "park park park park ",
         "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
+            "longitude": -99.705416,
+            "latitude": 32.470612
         },
-        "imageName": "stmarylake"
+        "imageName": "hunter"
     },
     {
-        "name": "Twin Lake",
-        "category": "Lakes",
-        "city": "Twin Lakes",
-        "state": "Alaska",
+        "name": "Edwards hall",
+        "category": "ACU Dorm",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1005,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "park": "park park park park park ",
         "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
+            "longitude": -99.709773,
+            "latitude": 32.470250
         },
-        "imageName": "twinlake"
+        "imageName": "edwards"
     },
     {
-        "name": "Lake McDonald",
-        "category": "Mountains",
-        "city": "West Glacier",
-        "state": "Montana",
+        "name": "Mabee Hall",
+        "category": "ACU Dorm",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Glacier National Park",
+        "park": "park park park park park park ",
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
+            "longitude": -99.709740,
+            "latitude": 32.469549
         },
-        "imageName": "lakemcdonald"
+        "imageName": "mabee"
     },
     {
-        "name": "Charley Rivers",
-        "category": "Rivers",
-        "city": "Eaking",
-        "state": "Alaska",
+        "name": "Morris Hall",
+        "category": "ACU Dorm",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1007,
         "isFeatured": true,
         "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
+        "park": "park park park park park park park ",
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
+            "longitude": -99.707353,
+            "latitude": 32.470733
         },
-        "imageName": "charleyrivers",
+        "imageName": "morris",
     },
     {
-        "name": "Icy Bay",
-        "category": "Mountains",
-        "city": "Icy Bay",
-        "state": "Alaska",
+        "name": "Smith Adams Hall",
+        "category": "ACU Dorm",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "park": "park park park park park park park park ",
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
+            "longitude": -99.714942,
+            "latitude": 32.464159
         },
-        "imageName": "icybay"
+        "imageName": "smith"
     },
     {
-        "name": "Rainbow Lake",
-        "category": "Lakes",
-        "city": "Willow",
-        "state": "Alaska",
+        "name": "Sundance Parking Lot 3",
+        "category": "Fort Worth",
+        "city": "Fort Worth",
+        "state": "Texas",
         "id": 1009,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "State Recreation Area",
+        "park": "park park park park park park park park park ",
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
+            "longitude": -97.333641,
+            "latitude": 32.754177
         },
-        "imageName": "rainbowlake"
+        "imageName": "sundance2"
     },
     {
-        "name": "Hidden Lake",
-        "category": "Lakes",
-        "city": "Newhalem",
-        "state": "Washington",
+        "name": "Tarrant County Parking Garage",
+        "category": "Fort Worth",
+        "city": "Fort Worth",
+        "state": "Texas",
         "id": 1010,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "North Cascades National Park",
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "park park park park park park park park park park ",
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
+            "longitude": -97.330823,
+            "latitude": 32.757868,
         },
-        "imageName": "hiddenlake"
+        "imageName": "tarrant"
     },
     {
-        "name": "Chincoteague",
-        "category": "Rivers",
-        "city": "Chincoteague",
-        "state": "Virginia",
+        "name": "Fort Worth Stockyards",
+        "category": "Fort Worth",
+        "city": "Fort Worth",
+        "state": "Texas",
         "id": 1011,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "park park park park park park park park park park park ",
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
+            "longitude": -97.346074,
+            "latitude": 32.791004
         },
-        "imageName": "chincoteague"
+        "imageName": "stockyards"
     },
     {
-        "name": "Lake Umbagog",
-        "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
+        "name": "Academy",
+        "category": "Fort Worth",
+        "city": "Fort Worth",
+        "state": "Texas",
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "park": "park park park park park park park park park park park park ",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": -97.260928,
+            "latitude": 32.893460
+            
         },
-        "imageName": "umbagog"
+        "imageName": "academy"
     }
 ]
